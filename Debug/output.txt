@@ -1,0 +1,55 @@
+
+ Node number   1:
+ X co-ordinate: (m)   0.000
+ Y co-ordinate: (m)   0.000
+
+ Node number   2:
+ X co-ordinate: (m)   0.000
+ Y co-ordinate: (m)   4.000
+
+ Node number   3:
+ X co-ordinate: (m)   3.000
+ Y co-ordinate: (m)   0.000
+ 
+
+ The members section properties are as follows:
+
+ no.               E (mpa)             A (mm^4)
+ ---------------------------------------------------------------------------
+  1.                    1.0000E+00          1.0000E+00
+  2.                    1.0000E+00          1.0000E+00
+  3.                    1.0000E+00          1.0000E+00
+ 
+
+ Output
+ ------
+  
+
+ Element forces in global co-ordinate system are as follows: 
+ 
+
+    elem num.         axial force (n)     compression/tension
+ ----------------------------------------------------------
+           1
+                      1.333333E-01       C
+
+    elem num.         axial force (n)     compression/tension
+ ----------------------------------------------------------
+           2
+                      6.400000E-02       T
+
+    elem num.         axial force (n)     compression/tension
+ ----------------------------------------------------------
+           3
+                      1.333333E-01       C
+ 
+
+ Nodal displacements in global co-ordinate system are as follows: 
+ 
+
+ node num.         x disp. (mm)        y disp. (mm)
+ ---------------------------------------------------
+   1             0.000000E+00        0.000000E+00
+   2            -5.333333E+02       -4.000000E+02
+   3             3.330669E-14        0.000000E+00
+ ---------------------------------------------------------------------------
