@@ -1,0 +1,26 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Sydney(lowercase) - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\LENOVO\AppData\Local\Temp\RSPC1A3.tmp" with contents
+[
+/check:bounds /compile_only /debug:full /nologo /traceback /warn:argument_checking /warn:nofileopt /module:"Debug/" /object:"Debug/" /pdbfile:"Debug/DF60.PDB" 
+"C:\Users\LENOVO\Desktop\tahlil 2\tahlil 2 - xarpa\Sydney(lowercase).f90"
+]
+Creating command line "link.exe kernel32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/Sydney(lowercase).pdb" /debug /machine:I386 /out:"Debug/Sydney(lowercase).exe" /pdbtype:sept  ".\Debug\Sydney(lowercase).obj" "
+<h3>Output Window</h3>
+Compiling Fortran...
+C:\Users\LENOVO\Desktop\tahlil 2\tahlil 2 - xarpa\Sydney(lowercase).f90
+Linking...
+
+
+
+<h3>Results</h3>
+Sydney(lowercase).exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
